@@ -3,7 +3,7 @@ package com.pluralsight;
 public class MathApp {
     //    Q1
 
-        public static void main(String[] args) {
+
             int bobSalary = 10000;
             int garySalary = 11000;
             int highestSalary = garySalary;
