@@ -45,8 +45,8 @@ public class MathApp {
 //Q7
             double randomNum = Math.random();
             System.out.println("random number between 0 and 1: " + randomNum);
-        }
     }
+}
 
 
 
